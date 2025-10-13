@@ -1,0 +1,8 @@
+# train data
+*.midi
+*.wav
+maestro-v3.0.0
+
+# python
+*.pyc
+__pycache__
